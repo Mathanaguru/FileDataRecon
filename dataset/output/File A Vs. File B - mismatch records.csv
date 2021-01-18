@@ -1,0 +1,7 @@
+Profit Center,Entity,Product,Currency,Version,Functional Area,Fiscal Period,Value_x,Value_y,Match
+PC01,Entity01,Product01,USD,Plan,Net Sales,Dec-20,100.0,,False
+PC01,Entity01,Product01,USD,Plan,Net Sales,Feb-20,100.0,120.0,False
+PC01,Entity01,Product01,USD,Plan,Net Sales,Jun-20,,100.0,False
+PC01,Entity01,Product042424234242441,USD,Plan,Net Sales,Jun-20,100.0,,False
+PC02,Entity01,Product01,USD,Plan,Net Sales,Dec-20,,100.0,False
+PC02,Entity01,Product01,USD,Plan,Net Sales,Jan-20,,55.0,False

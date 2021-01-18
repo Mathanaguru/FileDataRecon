@@ -1,0 +1,13 @@
+Profit Center,Entity,Product,Currency,Version,Functional Area,Fiscal Period,Value
+PC01,Entity01,Product01,USD,Plan,Net Sales,Jan-20,Hell0
+PC01,Entity01,Product01,USD,Plan,Net Sales,Feb-20,Test
+PC01,Entity01,Product01,USD,Plan,Net Sales,Mar-20,AB
+PC01,Entity01,Product01,USD,Plan,Net Sales,Apr-20,AB
+PC01,Entity01,Product01,USD,Plan,Net Sales,May-20,BC
+PC01,Entity01,Product042424234242441,USD,Plan,Net Sales,Jun-20,AD
+PC01,Entity01,Product01,USD,Plan,Net Sales,Jul-20,ABCD
+PC01,Entity01,Product01,USD,Plan,Net Sales,Aug-20,xyc
+PC01,Entity01,Product01,USD,Plan,Net Sales,Sep-20,z
+PC01,Entity01,Product01,USD,Plan,Net Sales,Oct-20,
+PC01,Entity01,Product01,USD,Plan,Net Sales,Nov-20,#$%
+PC01,Entity01,Product01,USD,Plan,Net Sales,Dec-20,100

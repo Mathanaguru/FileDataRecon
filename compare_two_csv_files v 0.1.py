@@ -13,7 +13,7 @@ Limitations:
     3. Files should be in flat structure: measure should be in just 1 column
     4. Measure file/column name should be 'Value' as it is hardcoded in the code in this version
 
-Future Enhancements:
+Potential Future Enhancements:
     1. Check for empty records run - need to set an exception when both source and target has no data
     2. Performance benchmark
     3. Revisit both source and target measure null value check
