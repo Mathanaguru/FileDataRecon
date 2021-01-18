@@ -1,2 +1,2 @@
 # FileDataRecon
-Utility to compare two .csv files
+Utility to compare two .csv flat files
